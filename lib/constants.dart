@@ -122,4 +122,9 @@ var drinkDb = {
     "Name": "Earl Grey Milk Tea Large",
     "Cost": 5.80,
   },
+  8: {
+    "Location": "Gong Cha",
+    "Name": "Coconut Slush",
+    "Cost": 4.50,
+  },
 };

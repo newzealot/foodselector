@@ -127,4 +127,9 @@ var drinkDb = {
     "Name": "Coconut Slush",
     "Cost": 4.50,
   },
+  9: {
+    "Location": "Yee Tee",
+    "Name": "Coconut Shake",
+    "Cost": 4.50,
+  },
 };
